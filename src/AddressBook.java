@@ -18,7 +18,7 @@ public class AddressBook {
         BuddyInfo bud4 = new BuddyInfo("bud4");
         BuddyInfo bud3 = new BuddyInfo("bud3");
         AddressBook addressBook = new AddressBook();
-        addressBook.addBuddy(bud3);
-        addressBook.removeBuddy(bud3);
+        addressBook.addBuddy(bud4);
+        addressBook.removeBuddy(bud4);
     }
 }
